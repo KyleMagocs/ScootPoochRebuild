@@ -15,10 +15,20 @@
             "m_owner": "31ff25ab-d154-4d4c-a267-ffb69f2c9491"
         },
         {
-            "id": "5b849208-82bf-40de-9d7b-e63cf371ce26",
+            "id": "0da34e91-4cec-4e4d-bda2-d4139faa96a0",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "31ff25ab-d154-4d4c-a267-ffb69f2c9491"
+        },
+        {
+            "id": "c3e65feb-6850-471e-8e01-8aa4e2d58cc5",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
@@ -150,7 +160,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "beefhead",
+            "value": "noone",
             "varName": "headsprite",
             "varType": 5
         },
@@ -164,7 +174,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "beefbody",
+            "value": "noone",
             "varName": "bodysprite",
             "varType": 5
         },
@@ -178,7 +188,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "beefrarm",
+            "value": "noone",
             "varName": "rarmsprite",
             "varType": 5
         },
@@ -192,7 +202,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "beeflarm",
+            "value": "noone",
             "varName": "larmsprite",
             "varType": 5
         },
@@ -206,9 +216,23 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "beeftail",
+            "value": "noone",
             "varName": "tailsprite",
             "varType": 5
+        },
+        {
+            "id": "0c8c7ff9-92b9-4b8f-ba48-83f8308f9476",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "myspeed",
+            "varType": 1
         }
     ],
     "solid": true,

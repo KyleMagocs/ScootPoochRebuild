@@ -1,8 +1,8 @@
 {
-    "id": "84fc0fc9-e5c8-4291-8d42-b968e8d67c75",
+    "id": "85b5116c-be65-4827-8f74-3fd7207f842c",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "RoastBeef",
+    "name": "rightPlayer",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "e0e8d718-2bf7-456c-bd73-1f60e56a7a07",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }
