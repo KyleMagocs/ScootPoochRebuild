@@ -1,0 +1,96 @@
+Converting GML script: raw_input.gml
+Converted description /// @description  ()~
+
+Converting GML script: raw_input.gml
+Converted description /// @description  (flags = raw_input_watch_hid_mice|raw_input_watch_hid_keyboards)/// @param flags = raw_input_watch_hid_mice|raw_input_watch_hid_keyboards
+
+Converting GML script: raw_input.gml
+Converted description /// @description  ()~
+
+Converting GML script: raw_input.gml
+Converted description /// @description  () : Call once per frame!
+
+Converting GML script: raw_input.gml
+Converted description /// @description  ()
+
+Converting GML script: raw_input.gml
+Converted description /// @description  (index, key, state)~/// @param index
+/// @param  key
+/// @param  state
+
+Converting GML script: raw_input.gml
+Converted description /// @description  (index, key)/// @param index
+/// @param  key
+
+Converting GML script: raw_input.gml
+Converted description /// @description  (index, key)/// @param index
+/// @param  key
+
+Converting GML script: raw_input.gml
+Converted description /// @description  (index, key)/// @param index
+/// @param  key
+
+Converting GML script: raw_input.gml
+Converted description /// @description  ()
+
+Converting GML script: raw_input.gml
+Converted description /// @description  (index)/// @param index
+
+Converting GML script: raw_input.gml
+Converted description /// @description  (index)/// @param index
+
+Converting GML script: raw_input.gml
+Converted description /// @description  (index, x, y)/// @param index
+/// @param  x
+/// @param  y
+
+Converting GML script: raw_input.gml
+Converted description /// @description  (index)/// @param index
+
+Converting GML script: raw_input.gml
+Converted description /// @description  (index, new_multiplier)/// @param index
+/// @param  new_multiplier
+
+Converting GML script: raw_input.gml
+Converted description /// @description  (index)/// @param index
+
+Converting GML script: raw_input.gml
+Converted description /// @description  (index)/// @param index
+
+Converting GML script: raw_input.gml
+Converted description /// @description  (index)/// @param index
+
+Converting GML script: raw_input.gml
+Converted description /// @description  (index)/// @param index
+
+Converting GML script: raw_input.gml
+Converted description /// @description  (index)/// @param index
+
+Converting GML script: raw_input.gml
+Converted description /// @description  (index, mb, offset)~/// @param index
+/// @param  mb
+/// @param  offset
+
+Converting GML script: raw_input.gml
+Converted description /// @description  (index, mb)/// @param index
+/// @param  mb
+
+Converting GML script: raw_input.gml
+Converted description /// @description  (index, mb)/// @param index
+/// @param  mb
+
+Converting GML script: raw_input.gml
+Converted description /// @description  (index, mb)/// @param index
+/// @param  mb
+
+Converting GML script: raw_input.gml
+Converted description /// @description  (index)/// @param index
+
+Converting GML script: raw_input.gml
+Converted description /// @description  (index)/// @param index
+
+Converting GML script: ${project_dir}\scripts\scr_raw_input_demo_keyboard_key_name\scr_raw_input_demo_keyboard_key_name.gml
+Converted description /// @description  keyboard_key_name(keycode:int)/// @param keycode:int
+
+!!! Font fnt_raw_input_demo uses a font (Ubuntu Condensed SemiItalic) not installed on this system - Font has NOT been regenerated
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\fnt_raw_input_demo\fnt_raw_input_demo.gms1.png
