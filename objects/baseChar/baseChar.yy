@@ -134,7 +134,7 @@
             "resourceFilter": 1023,
             "value": "0",
             "varName": "angle",
-            "varType": 0
+            "varType": 1
         },
         {
             "id": "71827fe0-a183-4da0-bc19-0c9c65274033",
@@ -221,7 +221,7 @@
             "varType": 5
         },
         {
-            "id": "0c8c7ff9-92b9-4b8f-ba48-83f8308f9476",
+            "id": "40581351-505a-4a5c-a442-422396b65046",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -231,8 +231,22 @@
             "rangeMin": 0,
             "resourceFilter": 1023,
             "value": "0",
-            "varName": "myspeed",
+            "varName": "z_speed",
             "varType": 1
+        },
+        {
+            "id": "dfc714b7-5f16-4bd8-81e8-9a170f9aa98b",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "False",
+            "varName": "jumping",
+            "varType": 3
         }
     ],
     "solid": true,
