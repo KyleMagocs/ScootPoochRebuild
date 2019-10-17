@@ -12,3 +12,5 @@ rarmsprite = beefrarm;
 tailsprite = beeftail;
 bodysprite = beefbody;
 }
+
+global.turnFactor = 8;
