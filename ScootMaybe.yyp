@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "1e9dfb07-7b1c-4699-9fcf-df3d7419131e",
+            "Value": {
+                "id": "ccef1f78-f681-48c4-839e-ac7de8cb570e",
+                "resourcePath": "views\\1e9dfb07-7b1c-4699-9fcf-df3d7419131e.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "23487a01-4909-4277-9eff-2ae05db77f44",
             "Value": {
                 "id": "c1df1ab2-4263-4221-bbe5-edcb70b77bba",
@@ -151,6 +159,14 @@
             }
         },
         {
+            "Key": "53993d24-9537-4b05-931c-fbac8535d159",
+            "Value": {
+                "id": "9e692f8a-0d32-4650-b9e2-372f924f7579",
+                "resourcePath": "views\\53993d24-9537-4b05-931c-fbac8535d159.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "541fecd1-cc5d-4e14-95cb-67a8b6564b26",
             "Value": {
                 "id": "6c05bc84-6dc2-447c-8ff7-15c863bfed63",
@@ -196,6 +212,14 @@
                 "id": "2bd768e2-08ac-4032-8aa3-75d8f6cc9509",
                 "resourcePath": "views\\6447ea30-f356-44fe-b309-3313156e74b0.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6f79723a-83fb-4517-a686-2aeafa3111d8",
+            "Value": {
+                "id": "7ef52fc8-1b88-4cd7-ae42-9b9e049bb55c",
+                "resourcePath": "sprites\\sprite12\\sprite12.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -327,11 +351,27 @@
             }
         },
         {
+            "Key": "b3ab45e6-4bf1-493e-815b-05dce733ddcf",
+            "Value": {
+                "id": "74234ac6-595e-4681-94a9-5cb46c2f14ce",
+                "resourcePath": "tilesets\\tileset1\\tileset1.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "b4fd99b6-01b1-4589-b28b-c8208e97141c",
             "Value": {
                 "id": "6a2501bc-2525-4c36-98f8-10070abf4f7e",
                 "resourcePath": "rooms\\Game\\Game.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "b6786b12-593e-4757-9f00-b49f63998e7f",
+            "Value": {
+                "id": "2c0cba53-59d1-45df-ad88-c8098e28e087",
+                "resourcePath": "views\\b6786b12-593e-4757-9f00-b49f63998e7f.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -359,10 +399,10 @@
             }
         },
         {
-            "Key": "c1324a91-bbe3-433a-a63a-b8f9d782aa04",
+            "Key": "bef9758b-2c9b-45a2-90a6-d68bc0191f2e",
             "Value": {
-                "id": "3b8ece8a-7f1e-414d-9a31-4cb85294b81a",
-                "resourcePath": "sprites\\sprite11\\sprite11.yy",
+                "id": "c7b3e17e-0168-4c78-95e1-75b583d7f94b",
+                "resourcePath": "sprites\\sprite13\\sprite13.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -383,11 +423,11 @@
             }
         },
         {
-            "Key": "ce5be8b9-f852-4c50-b03b-3ca896cea435",
+            "Key": "d3117663-7d25-48af-adae-24f622af866e",
             "Value": {
-                "id": "ca25a70d-6fca-4f1d-9cd3-cc7f5788fba8",
-                "resourcePath": "sprites\\sprite12\\sprite12.yy",
-                "resourceType": "GMSprite"
+                "id": "1464adbb-3022-43b5-88ea-c3262574e90a",
+                "resourcePath": "views\\d3117663-7d25-48af-adae-24f622af866e.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -428,6 +468,14 @@
                 "id": "5193325e-8194-4fb3-9fe4-e4dabb28d22d",
                 "resourcePath": "notes\\compatibility_report_151019_846554655.yy",
                 "resourceType": "GMNotes"
+            }
+        },
+        {
+            "Key": "f2a81823-52e7-45f1-abcb-b2652a9b3861",
+            "Value": {
+                "id": "013c8843-5346-4133-bc41-61cbdef16136",
+                "resourcePath": "objects\\lamp\\lamp.yy",
+                "resourceType": "GMObject"
             }
         },
         {
