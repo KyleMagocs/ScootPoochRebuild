@@ -2,7 +2,7 @@
     "id": "f2a81823-52e7-45f1-abcb-b2652a9b3861",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "lamp",
+    "name": "obj_lamp",
     "eventList": [
         {
             "id": "a7ac1f86-8448-44af-810c-2fbdf85af6c4",
@@ -32,6 +32,16 @@
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
+            "m_owner": "f2a81823-52e7-45f1-abcb-b2652a9b3861"
+        },
+        {
+            "id": "a8214129-45b0-4d67-bfcb-717e9daf58c4",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "7124b168-d54c-4e59-abeb-432e38a888de",
+            "enumb": 0,
+            "eventtype": 4,
             "m_owner": "f2a81823-52e7-45f1-abcb-b2652a9b3861"
         }
     ],

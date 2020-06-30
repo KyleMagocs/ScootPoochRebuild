@@ -9,7 +9,8 @@
     "instanceCreationOrderIDs": [
         "e3aff128-e554-449b-9f95-bda154dabeb3",
         "4db7202f-82df-4264-a95b-c7d0703ee90d",
-        "a6b45b6c-465d-464d-ba56-3ee6dd05c170"
+        "a6b45b6c-465d-464d-ba56-3ee6dd05c170",
+        "5331ba89-4a1b-42af-975d-b16b93950127"
     ],
     "IsDnD": false,
     "layers": [
@@ -29,7 +30,8 @@
             "instances": [
 {"name": "inst_610A7688","id": "e3aff128-e554-449b-9f95-bda154dabeb3","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_610A7688","objId": "f2a81823-52e7-45f1-abcb-b2652a9b3861","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 192,"y": 2336},
 {"name": "inst_5ED6E96F","id": "4db7202f-82df-4264-a95b-c7d0703ee90d","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_5ED6E96F","objId": "7124b168-d54c-4e59-abeb-432e38a888de","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 480,"y": 2528},
-{"name": "inst_6169F522","id": "a6b45b6c-465d-464d-ba56-3ee6dd05c170","colour": { "Value": 4294967295 },"creationCodeFile": "InstanceCreationCode_inst_6169F522.gml","creationCodeType": ".gml","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_6169F522","objId": "989bde95-1326-4ade-8a46-3eb56f895418","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 160,"y": 2528}
+{"name": "inst_6169F522","id": "a6b45b6c-465d-464d-ba56-3ee6dd05c170","colour": { "Value": 4294967295 },"creationCodeFile": "InstanceCreationCode_inst_6169F522.gml","creationCodeType": ".gml","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_6169F522","objId": "989bde95-1326-4ade-8a46-3eb56f895418","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 160,"y": 2528},
+{"name": "inst_3F2910B9","id": "5331ba89-4a1b-42af-975d-b16b93950127","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_3F2910B9","objId": "441ab3f3-c1a9-41d7-8ab6-e754134f084b","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 448,"y": 2016}
             ],
             "layers": [
 
@@ -60,8 +62,8 @@
             "m_parentID": "00000000-0000-0000-0000-000000000000",
             "m_serialiseFrozen": false,
             "modelName": "GMRTileLayer",
-            "prev_tileheight": 67,
-            "prev_tilewidth": 61,
+            "prev_tileheight": 71,
+            "prev_tilewidth": 65,
             "mvc": "1.0",
             "tiles": {
                 "SerialiseData": null,
@@ -132,8 +134,8 @@
             "m_parentID": "00000000-0000-0000-0000-000000000000",
             "m_serialiseFrozen": false,
             "modelName": "GMRTileLayer",
-            "prev_tileheight": 67,
-            "prev_tilewidth": 61,
+            "prev_tileheight": 71,
+            "prev_tilewidth": 65,
             "mvc": "1.0",
             "tiles": {
                 "SerialiseData": null,
